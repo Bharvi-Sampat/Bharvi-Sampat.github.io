@@ -61,7 +61,7 @@ Further, I also learnt how to add an Image in a box element using div
 
 ### Continued development
 
-I'd like to continue my focus on writing better CSS and laso incorporate TailWindcss in my future learnings
+I'd like to continue my focus on writing better CSS and also incorporate TailWindcss in my future learnings
 
 ### Useful resources
 
