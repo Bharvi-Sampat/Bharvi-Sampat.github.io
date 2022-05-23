@@ -70,7 +70,7 @@ I'd like to continue my focus on writing better CSS and also incorporate TailWin
 
 ## Author
 
-- Website - [Bharvi Sampat](https://incandescent-maamoul-a75945.netlify.app/)
+- Website - [QR-Code Component](https://incandescent-maamoul-a75945.netlify.app/)
 - Frontend Mentor - [@Bharvi-Sampat](https://www.frontendmentor.io/profile/Bharvi-Sampat)
 - Twitter - [@bharvisampat](https://www.twitter.com/bharvisampat)
 
