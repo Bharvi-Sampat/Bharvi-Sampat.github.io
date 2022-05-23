@@ -24,6 +24,7 @@
       position: absolute;
       top: 20%;
       left: 40%;
+      right:40%;
       margin: -25px -25px 0 0;
       display: block;
       width: 305px;
@@ -31,7 +32,7 @@
       border: none;
       background-color:white;
       border-radius: 15px;
-      box-shadow: 50px hsl(218, 44%, 22%);
+      box-shadow: 0 0 60px rgba(0,0,0,0.23) ;
     }
     
     img {
@@ -50,16 +51,28 @@
     }
 
     .bold {
-      font-size: 16px;
+      font-size: 20px;
       font-weight: 700;
       padding: 20px 35px;
     }
 
     .grey {
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 400;
       color: hsl(220, 15%, 55%);
-      padding: 20px 25px;
+      padding: 20px 1px;
+    }
+    /* For Mobile */
+    @media only screen and (max-width: 375px) {
+      div.box {
+        position: absolute;
+        left: 25px;
+        right: 25px;
+        margin: -25px -25px 0 0;
+        display: block;
+        
+        
+      }
     }
   </style>
 </head>
